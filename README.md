@@ -1,3 +1,3 @@
 # YouGere
-Aplicativo de divisão de contas e gerenciamento de gastos
+Projeto de app de divisão de custos para um apartamento. 
 Lucas Félix, Ramon, Vitor Juvino, Matheus Virgolino.
